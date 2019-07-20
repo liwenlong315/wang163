@@ -94,7 +94,7 @@ export default {
   background #ffffff
   border-top 1px solid #d9d9d9
   font-size 24px
-  position absolute
+  position fixed
   bottom 0
   .m-tabBar
     display flex
