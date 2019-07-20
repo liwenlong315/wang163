@@ -13,7 +13,7 @@
 </template>
 
 <script type="text/ecmascript-6">
-import Con from './con.vue'
+import Con from './Listcont.vue'
 export default {
   name: 'classify',
   components: {
